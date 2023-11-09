@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module ALU(
+module ALUbootcamp(
     input [2:0] ALU_control,
     input [31:0] A,B,
     output Zero,
